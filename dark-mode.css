@@ -38,8 +38,8 @@ body {
    max-height: 50vh;
    overflow: hidden;
    font-family: Arial;
-   background: #1a1a1a; /* Dark background color */
-   color: #ffffff; /* White text color */
+   background: #1a1a1a;
+   color: #ffffff;
    display: flex;
    justify-content: center;
    align-items: center;
